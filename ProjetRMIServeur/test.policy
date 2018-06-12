@@ -1,0 +1,3 @@
+grant codeBase "file:C:/workspace/ProjetRMIServeur/bin/-" {
+    permission java.security.AllPermission;
+};
